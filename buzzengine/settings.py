@@ -2,7 +2,7 @@ import os
 
 # when a new comment happens, 
 # this email address receives an alert
-ADMIN_EMAIL  = "contact@alexn.org"
+ADMIN_EMAIL  = "mail@lenardszolnoki.com"
 
 # FROM header of new message notifications.  Unfortunately it must be
 # an approved sender ... like the emails of admins you approve for the
@@ -11,7 +11,7 @@ ADMIN_EMAIL  = "contact@alexn.org"
 # Some details here:
 #   http://code.google.com/appengine/docs/python/mail/sendingmail.html
 #
-EMAIL_SENDER = "TheBuzzEngine <messages@thebuzzengine.com>"
+EMAIL_SENDER = "BuzzEngine <buzzengine@lenardszolnoki.com>"
 
 
 ## Web framework specific stuff ...
